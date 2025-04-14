@@ -9,4 +9,4 @@ and this is my about me:
 - 😄 Pronouns: him, his, serg
 - ⚡ Fun fact: I started coding 1 year ago
 - 💻 I use a mac for all my coding
-- 👾 I use the terminal a lot
+- 👾 I use the terminal a lot!
